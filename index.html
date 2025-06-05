@@ -15,25 +15,22 @@
     <div id="map"></div>
 
     <script>
-      // ① カスタムマップスタイルは mapId によって適用される
       const mapOptions = {
-        center: { lat: 51.509865, lng: -0.118092 },
+        center: { lat: 51.509865, lng: -0.118092 }, // ロンドン中心
         zoom: 11,
         mapId: "12ba70801ea07ca4acc876c1"
       };
 
-      // ② 表示したい郵便番号一覧
       const postcodes = [
-        "TW80QX", "IG118SE", "N16 5BD", "N1 0HU", "E3 4PX", "E2 9RR", "AL10 0PS", "E14 7NG",
-        "NW5 1HR", "SE10 0DZ", "W11 2DF", "E9 6DJ", "HA40LR", "N5 1PB", "N15 4NE", "RM3 8SB",
-        "IG8 9HR", "IG6 2XL", "N21 2PJ", "W4 3LT", "E5 8RQ", "N7 6AR", "W10 6LP", "N135HE",
-        "NW11 6NJ", "W7 3ET", "N10 2EY", "UB6 7PQ", "KT8 1QS", "TW76AB", "W6 9ER", "E13 9EX",
-        "RM13 9DB", "NW10", "HA0 3TQ", "ST CHARLES HOSPITAL", "NW2 1QG", "N3 1SA", "E16 2ZA",
-        "N166AE", "EC3A 3BP", "N15 3JS", "W10 6NX", "W7 3BA", "HA8 8BN", "W4 3NX", "E14 0XA",
-        "E5 9EN", "N7 7RB", "CR4 4JA", "N41SY", "CR0 7AL"
+        "TW8 0QX", "IG11 8SE", "N16 5BD", "N1 0HU", "E3 4PX", "E2 9RR", "AL10 0PS", "E14 7NG",
+        "NW5 1HR", "SE10 0DZ", "W11 2DF", "E9 6DJ", "HA4 0LR", "N5 1PB", "N15 4NE", "RM3 8SB",
+        "IG8 9HR", "IG6 2XL", "N21 2PJ", "W4 3LT", "E5 8RQ", "N7 6AR", "W10 6LP", "N13 5HE",
+        "NW11 6NJ", "W7 3ET", "N10 2EY", "UB6 7PQ", "KT8 1QS", "TW7 6AB", "W6 9ER", "E13 9EX",
+        "RM13 9DB", "NW10 0AA", "HA0 3TQ", "NW2 1QG", "N3 1SA", "E16 2ZA", "EC3A 3BP", "N15 3JS",
+        "W10 6NX", "W7 3BA", "HA8 8BN", "W4 3NX", "E14 0XA", "E5 9EN", "N7 7RB", "CR4 4JA",
+        "CR0 7AL", "N4 1SY", "N16 6AE"
       ];
 
-      // ③ ピンのカスタムアイコン
       const customIcon = {
         url: "https://niki0925.github.io/custom-map/orange_fixed-01.png",
         scaledSize: new google.maps.Size(30, 30)
@@ -44,7 +41,6 @@
         const geocoder = new google.maps.Geocoder();
 
         postcodes.forEach((postcode) => {
-          if (!postcode || postcode === "NAN") return; // 無効な値はスキップ
           geocoder.geocode({ address: postcode + ", UK" }, (results, status) => {
             if (status === "OK") {
               new google.maps.Marker({
