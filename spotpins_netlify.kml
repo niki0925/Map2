@@ -15,10 +15,10 @@
         </Icon>
       </IconStyle>
     </Style>
- <Placemark>
+<Placemark>
       <name>Community A</name>
    <description><![CDATA[
-<div style="font-size:18px; line-height:1.6;">
+<div style="font-size:16px; line-height:1.6;">
   This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
   <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
   <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
@@ -28,531 +28,353 @@
         <coordinates>-0.02955,51.482939,0</coordinates>
       </Point>
     </Placemark>
-    <Placemark>
-      <name>Community B</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.645344,51.52565,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community C</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.213815,51.361956,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community D</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.19237,51.373227,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community E</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.189761,51.365084,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community F</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.195682,51.352217,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community G</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.219872,51.355402,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community H</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.224899,51.368517,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community I</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.219604,51.366774,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community J</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.21965,51.364841,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community K</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.217638,51.366428,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community L</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.215353,51.380774,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community M</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.213867,51.372424,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community N</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.194843,51.395837,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community O</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.204957,51.393798,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community P</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.171873,51.393646,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community Q</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.193393,51.39406,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community R</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.185216,51.388925,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community S</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.183708,51.380188,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community T</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.178509,51.389424,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community U</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.1607,51.376268,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community V</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.161533,51.371183,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community W</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.170818,51.363584,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community X</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.167368,51.366454,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community Y</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.163967,51.354863,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Community Z</name>
-      <description>&lt;![CDATA[
-&lt;p style=&quot;font-size: 18px !important; line-height: 1.6;&quot;&gt;
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;img src=&quot;https://niki0925.github.io/Map2/community_photo.png&quot; style=&quot;width:450px; height:auto; display:block; margin:6px 0;&quot; /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-  &lt;a href=&quot;https://www.instagram.com/clothfairhiddengarden/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;
-&lt;/p&gt;
-&lt;p style=&quot;font-size: 16px !important;&quot;&gt;
-Category: community garden
-&lt;/p&gt;
-    ]]&gt;</description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.1652,51.3611,0</coordinates>
-      </Point>
-    </Placemark>
-  </Document>
-</kml>
+<Placemark>
+  <name>Community B</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.645344,51.52565,0</coordinates>
+  </Point>
+</Placemark>
 
+<Placemark>
+  <name>Community C</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.213815,51.361956,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community D</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.19237,51.373227,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community E</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.189761,51.365084,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community F</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.195682,51.352217,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community G</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.219872,51.355402,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community H</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.224899,51.368517,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community I</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.219604,51.366774,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community J</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.21965,51.364841,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community K</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.217638,51.366428,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Community L</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.215353,51.380774,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community M</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.213867,51.372424,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community N</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.194843,51.395837,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community O</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.204957,51.393798,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community P</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.171873,51.393646,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community Q</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.193393,51.39406,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community R</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.185216,51.388925,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community S</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.183708,51.380188,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community T</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.178509,51.389424,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community U</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1607,51.376268,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community V</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.161533,51.371183,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community W</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.170818,51.363584,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community X</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.167368,51.366454,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community Y</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.163967,51.354863,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Community Z</name>
+  <description><![CDATA[
+<div style="font-size:16px; line-height:1.6;">
+  This community garden engages people from different generations and backgrounds through gardening and community activities.<br><br>
+  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:450px; height:auto; display:block; margin:12px 0;" /><br>
+  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a><br><br>
+  Category: community garden</div>]]></description>
+  <styleUrl>#orangeIcon</styleUrl>
+  <Point>
+    <coordinates>-0.1652,51.3611,0</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
