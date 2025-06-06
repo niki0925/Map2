@@ -15,540 +15,397 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.123673,51.47657,0</coordinates>
-      </Point>
+<Placemark>
+        <name>Community A</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.02955,51.482939,0</coordinates>
+        </Point>
     </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.122053,51.478846,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.122303,51.477681,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.124565,51.476593,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.143149,51.470119,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.114543,51.46681,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.103687,51.465754,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.111692,51.46332,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.122713,51.466709,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-2.715476,50.951158,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>0.328151,51.1511,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>0.328151,51.1511,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>0.605212,50.875094,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.325506,51.445338,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.324294,51.445257,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.3127,51.4536,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.301615,51.457646,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.303665,51.44506,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.314964,51.433263,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.298487,51.454292,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.34457,51.433711,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.330235,51.424012,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.323722,51.429423,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.31117,51.418317,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.360752,51.427761,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.362995,51.426992,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.407811,51.444938,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.407811,51.444938,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.393791,51.433785,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.421197,51.450505,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.463216,51.398521,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.460825,51.405954,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.442221,51.394755,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.363239,51.444306,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.33973,51.44518,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.340635,51.443826,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.35951,51.465853,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.365383,51.464272,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.36705,51.463549,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.36652,51.472111,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.376666,51.480777,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.380632,51.481434,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.348332,51.471991,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.347801,51.472946,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.32494,51.479114,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.32786,51.475649,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.324434,51.473648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.324434,51.473648,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.365311,51.498702,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.393369,51.497068,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.335968,51.550787,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.481419,51.539597,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.210798,51.525079,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.210798,51.525079,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.214002,51.523628,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.213942,51.521719,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.223442,51.517387,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.21,51.521,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.214539,51.512358,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.211041,51.509069,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.232069,51.508632,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.235392,51.512745,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.233696,51.511497,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.2276,51.505569,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.231338,51.505032,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.323104,51.499725,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.209576,51.494254,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.214029,51.491865,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.139257,51.524346,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.265683,51.512433,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.256725,51.501329,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.260817,51.480123,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.2706,51.4934,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.292954,51.533902,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.308384,51.498048,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.305559,51.503897,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.224423,51.490693,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.340104,51.506864,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.34495,51.514297,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.339682,51.51667,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.200163,51.499874,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.194236,51.526958,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.201758,51.524752,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.121557,51.527703,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.112515,51.527839,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.118445,51.53045,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.113113,51.530391,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.127782,51.509946,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
-        <coordinates>-0.337281,51.638938,0</coordinates>
-      </Point>
-    </Placemark>
-  </Document>
-</kml>
 
+    <Placemark>
+        <name>Community B</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.645344,51.52565,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community C</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.213815,51.361956,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community D</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.19237,51.373227,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community E</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.213815,51.361956,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community F</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.189761,51.365084,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community G</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.195682,51.352217,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community H</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.219872,51.355402,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community I</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.224899,51.368517,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community J</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.219604,51.366774,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community K</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.21965,51.364841,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community L</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.217638,51.366428,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community M</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.215353,51.380774,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community N</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.213867,51.372424,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community O</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.194843,51.395837,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community P</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.204957,51.393798,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community Q</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.204957,51.393798,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community R</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.171873,51.393646,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community S</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.193393,51.39406,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community T</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.185216,51.388925,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community U</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.183708,51.380188,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community V</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.178509,51.389424,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community W</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.1607,51.376268,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community X</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.161533,51.371183,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community Y</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.170818,51.363584,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community Z</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.167368,51.366454,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community A</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: school garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.163967,51.354863,0</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+        <name>Community B</name>
+        <description><![CDATA[
+            <p>This community garden engages people from different generations and backgrounds through gardening and community activities.</p>
+            <p><img src="https://niki0925.github.io/Map2/example_photo.png" width="200px"/></p>
+            <p><a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a></p>
+            <p>Category: community garden</p>
+        ]]></description>
+        <styleUrl>#orangeIcon</styleUrl>
+        <Point>
+            <coordinates>-0.1652,51.3611,0</coordinates>
+        </Point>
+    </Placemark>
+
+</Document>
+</kml>
