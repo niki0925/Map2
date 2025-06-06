@@ -15,25 +15,23 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Placemark>
-      <name>Community A</name>
-      <description><![CDATA[<p style="font-size: 18px; line-height: 1.6;">
-This community garden engages people from different generations and backgrounds through gardening and community activities.
-</p>
-<p>
-  <img src="https://niki0925.github.io/Map2/community_photo.png" style="width:300px; height:auto; display:block; margin:12px 0;" />
-</p>
-<p style="font-size: 16px;">
-  <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a>
-</p>
-<p style="font-size: 16px;">
-Category: community garden
-</p>]]></description>
-      <styleUrl>#orangeIcon</styleUrl>
-      <Point>
+<Placemark>
+    <name>Community A</name>
+    <description><![CDATA[
+        <p style="font-size: 14px; font-family: Arial, sans-serif;">
+        This community garden engages people from different generations and backgrounds through gardening and community activities.
+        </p>
+        <img src="https://niki0925.github.io/Map2/community_photo.png" width="450px">
+        <br><br>
+        <a href="https://www.instagram.com/clothfairhiddengarden/" target="_blank">Instagram</a>
+        <br>
+        Category: community garden
+    ]]></description>
+    <styleUrl>#orangeIcon</styleUrl>
+    <Point>
         <coordinates>-0.02955,51.482939,0</coordinates>
-      </Point>
-    </Placemark>
+    </Point>
+</Placemark>
     <Placemark>
       <name>Community B</name>
       <description><![CDATA[<p style="font-size: 18px; line-height: 1.6;">
